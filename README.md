@@ -110,4 +110,4 @@ Through this project, I have honed my skills in:
 This project is a testament to my ability to automate and manage complex infrastructure environments using Ansible. By sharing this work, I aim to demonstrate my practical experience and readiness to take on challenging roles in DevOps, cloud infrastructure, and automation engineering.
 
 ## Connect with Me
-Feel free to explore this repository, fork it, and provide feedback. Connect with me on [LinkedIn](https://www.linkedin.com/in/patelrinkesh2499/) to discuss potential opportunities or collaborations.
+Feel free to explore this repository, fork it, and provide feedback. Connect with me on [LinkedIn](https://www.linkedin.com/in/maninder-kaur-84aa2022a/) to discuss potential opportunities or collaborations.
